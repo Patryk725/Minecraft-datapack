@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["CCC", "MSM", "CCC"],
+	"key": {
+		"C": { "item": "minecraft:coal_block" },
+		"S": { "item": "minecraft:stick" },
+		"M": { "item": "minecraft:magma_cream" }
+	},
+	"result": {
+		"item": "minecraft:blaze_rod"
+	}
+}

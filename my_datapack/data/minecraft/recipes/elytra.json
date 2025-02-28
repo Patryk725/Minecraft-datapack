@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["MDM", "MBM", "MBM"],
+	"key": {
+		"D": { "item": "minecraft:diamond" },
+		"B": { "item": "minecraft:blaze_rod" },
+		"M": { "item": "minecraft:phantom_membrane" }
+	},
+	"result": {
+		"item": "minecraft:elytra"
+	}
+}

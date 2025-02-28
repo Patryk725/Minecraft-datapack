@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:spider_eye" },
+		{ "item": "minecraft:bone" },
+		{ "item": "minecraft:rotten_flesh" },
+		{ "item": "minecraft:magma_cream" },
+		{ "item": "minecraft:red_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:blaze_rod" },
+		{ "item": "minecraft:string" },
+		{ "item": "minecraft:arrow" }
+	],
+	"result": {
+		"item": "minecraft:nether_wart"
+	}
+}
